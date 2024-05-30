@@ -137,7 +137,7 @@ export const experiences = [
         company_name: "Zensar Technologies",
         icon: zensar,
         iconBg: "#fbc3bc",
-        date: "May 2021 - June 2022",
+        date: "May 2021 - Oct 2022",
         points: [
             "Developed a robust SaaS product with Microservices architecture using Spring Boot to enhance system efficiency\n" +
             "while ensuring a high level of modularity.",
@@ -160,7 +160,7 @@ export const experiences = [
         company_name: "Coign Technologies",
         icon: Coign,
         iconBg: "#b7e4c7",
-        date: "Jan 2020 - Aug 2020",
+        date: "Jan 2020 - Mar 2021",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
