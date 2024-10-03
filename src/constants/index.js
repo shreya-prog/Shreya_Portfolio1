@@ -119,17 +119,14 @@ export const experiences = [
         iconBg: "#accbe1",
         date: "Jan 2023 - May 2024",
         points: [
-            "Engineered a 3D responsive and interactive flashcard quiz application to elevate user learning experiences using\n" +
-            "Tailwind CSS React.js,Next.js,and Three.js.",
-            "Implemented Node.js,Context API for back end with PostgreSQL to store Flashcards, or quiz related data which to\n" +
-            "reduced redundant API calls by 36 %." ,
-            "Incorporated accessibility enhancements by improving Keyboard Navigation with TypeScript,increasing accessibility\n" +
+            "Built a cool 3D full-stack app with React and OpenAI that dynamically generates customized products.\n" +
+            "– think of it as magic, but with code!",
+            "Used React Redux to keep things organized and PostgreSQL to cut down on redundant API calls \n"+
+            "Spruced up the UI/UX with TypeScript and Next.js, and guess what? It bumped up our accessibility scores\n" +
             "scores by 58%",
-            "Enforced Back end logic management with Amazon RDS to facilitate data ingestion of quiz information,triggering\n" +
-            "increase in quiz completion rate by 89.4%",
-            "Incorporated React Redux Toolkit for state management that increased transaction rate by 23.8%",
-            "Collaborated with DevOps teams to implement automated Redis cluster scaling, reducing manual intervention and\n" +
-            "improving resource utilization efficiency by 30%",
+            "On the backend, I wrangled Django REST and deployed it on AWS EC2\n" +
+            "with express.js and node.js",
+
         ],
     },
     {
@@ -139,19 +136,11 @@ export const experiences = [
         iconBg: "#fbc3bc",
         date: "May 2021 - Oct 2022",
         points: [
-            "Developed a robust SaaS product with Microservices architecture using Spring Boot to enhance system efficiency\n" +
-            "while ensuring a high level of modularity.",
-            "Ensured end-to-end seamless communication and interoperatability among Microservices by crafting RESTful API and\n" +
-            "RabbitMQ which realised a 60% reduction in response time." ,
-            "Established API Gateway functionality through Spring Cloud Gateway incorporating keycloak in Spring Security\n" +
-            "which resulted in 40% increase in Log analysis efficiency." ,
-            "Fabricated testcases for Integration Testing using JUnit,MockMVC in Spring Test into CI/CD pipelines and\n" +
-            "Achieved a substantial 30% reduction in regression issues with code review." ,
-            "Performed system monitoring using Grafana and prometheus after being containerised using Docker and lowered the\n" +
-            "error rate in health checks by 11% Spring Boot Actuator Endpoints." ,
-            "Engineered and a robust decoupling strategy with Apache Kafka,fostering event-driven approach that manifested as a\n" +
-            "12% surge in the system’s processing rate." ,
-            "Orchestrated Fine-tuning for resource allocation with kubernetes resulting in 17% decrease in resource wastage",
+            "Developed a powerful SaaS product with a microservices architecture using Java Spring Boot MVC-\n" +
+            "basically, an agile software superhero in disguise! 🦸‍♂️",
+            "To keep everything running smoothly, I ensured seamless communication between all API endpoints using Apache Kafka and Eureka Server—\n" +
+            "like setting up a digital traffic control center." ,
+
 
         ],
     },
@@ -162,7 +151,7 @@ export const experiences = [
         iconBg: "#b7e4c7",
         date: "Jan 2020 - Mar 2021",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
+            "Developing and maintaining web applications using Angular and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
             "Implementing responsive design and ensuring cross-browser compatibility.",
             "Participating in code reviews and providing constructive feedback to other developers.",
@@ -191,7 +180,7 @@ export const socialLinks = [
     {
         name: 'Resume',
         iconUrl:resume,
-        link: 'https://drive.google.com/file/d/1azMNSbLaGBTn_6w1gOCIjFzrgDZmxU-a/view?usp=sharing',
+        link: 'https://drive.google.com/file/d/1xltFAVH-jhhsNtbjywmSxHhdBJsoa8jJ/view?usp=sharing',
     }
 ];
 
