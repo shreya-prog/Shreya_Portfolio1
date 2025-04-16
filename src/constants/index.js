@@ -1,4 +1,4 @@
-import {Coign, meta, shopify, starbucks, tesla, ucf, zensar} from "../assets/images";
+import {Coign, kickstand, ucf, zensar} from "../assets/images";
 import {
     Bank,
     Book,
@@ -113,6 +113,20 @@ export const skills = [
 
 export const experiences = [
     {
+        title: "Wordpress Developer",
+        company_name: "Kickstand Technology LLC",
+        icon: kickstand,
+        iconBg: "#accbe1",
+        date: "Jan 2023 - Present",
+        points: [
+            "Created custom REST APIs to enable communication between WordPress and external systems, establishing seamless data exchange and synchronization.\n",
+            "Developed custom themes from scratch and utilized advanced CSS and JavaScript techniques to achieve pixel-perfect layouts.\n",
+            "Communicated closely with designers and clients to understand design specifications with provided mockups and wireframes.\n",
+            
+
+        ],
+    },
+    {
         title: "Graduate Research Assistant",
         company_name: "University of Central Florida",
         icon: ucf,
@@ -136,10 +150,9 @@ export const experiences = [
         iconBg: "#fbc3bc",
         date: "May 2021 - Oct 2022",
         points: [
-            "Developed a powerful SaaS product with a microservices architecture using Java Spring Boot MVC-\n" +
-            "basically, an agile software superhero in disguise! 🦸‍♂️",
-            "To keep everything running smoothly, I ensured seamless communication between all API endpoints using Apache Kafka and Eureka Server—\n" +
-            "like setting up a digital traffic control center." ,
+            " Delivered a fully responsive, SEO-optimized online store with enhanced user experience and robust e-commerce features.\n"+ 
+ "Converted PSD/Sketch designs into responsive WordPress themes using HTML5, CSS3, JavaScript, and PHP. \n"+
+ "Designed custom WooCommerce features like membership systems, subscription plans, and User dashboards. \n",
 
 
         ],
@@ -151,10 +164,8 @@ export const experiences = [
         iconBg: "#b7e4c7",
         date: "Jan 2020 - Mar 2021",
         points: [
-            "Developing and maintaining web applications using Angular and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Designed and modified WordPress plugins to extend functionality with ORM and Angular.js for front-end. \n" +
+            "Orchestrated SDLC and DD with the help of Sprint planning to integrate website monitoring reports from Google analytics \n",            
         ],
     },
 
@@ -180,7 +191,7 @@ export const socialLinks = [
     {
         name: 'Resume',
         iconUrl:resume,
-        link: 'https://drive.google.com/file/d/1xltFAVH-jhhsNtbjywmSxHhdBJsoa8jJ/view?usp=sharing',
+        link: '',
     }
 ];
 

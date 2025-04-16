@@ -7,6 +7,7 @@ import logo from './logo.svg'
 import ucf from './ucf.png'
 import zensar from './zensar.png'
 import Coign from './Coign.png'
+import kickstand from './kickstand.png'
 
 export {
     hero,
@@ -17,5 +18,7 @@ export {
     ucf,
     zensar,
     Coign,
-    logo
+    logo,
+    kickstand
+    
 }
